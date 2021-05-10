@@ -1,6 +1,6 @@
 # symfony-test
 
-A partir du squelette Symfony fourni, il vous est demandé de créer une version simplifiée du formulaire ci-dessous que nous utilisons dans notre application en production.
+A partir du squelette Symfony fourni, il vous est demandé de mettre en place une gestion CRUD de notification à partir d'une version simplifiée du formulaire ci-dessous que nous utilisons dans notre application en production.
 Il s'agit d'un formulaire permettant d'encoder une notification destinée à être envoyée aux destinataires sélectionnés.
 
 ![alt text](./formulaire.png)
